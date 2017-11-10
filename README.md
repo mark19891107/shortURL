@@ -1,3 +1,3 @@
 # shortURL
 
-* [pobook](http://pdis.rocks/pobook/)
+* PO協作會議準備手冊 [pobook](http://pdis.rocks/pobook/)
