@@ -5,3 +5,8 @@
 
 #### PDIS 系列網址
 * PDIS 直撥頻道 [live](http://pdis.rocks/live)
+
+
+#### RAY 系列網址
+* RAY 官網 [ray](https://ray.pdis.nat.gov.tw)
+* RAY 進度表 [rayform](http://pdis.rocks/rayform)
