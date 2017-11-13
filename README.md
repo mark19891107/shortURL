@@ -10,3 +10,4 @@
 #### RAY 系列網址
 * RAY 官網 [ray](https://ray.pdis.nat.gov.tw)
 * RAY 進度表 [rayform](http://pdis.rocks/rayform)
+* RAY 1116 見面會會議 [ray1116](http://pdis.rocks/ray1116)
