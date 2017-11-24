@@ -11,3 +11,8 @@
 * RAY 官網 [ray](https://ray.pdis.nat.gov.tw)
 * RAY 進度表 [rayform](http://pdis.rocks/rayform)
 * RAY 1116 見面會會議 [ray1116](http://pdis.rocks/ray1116)
+
+#### 協作會議系列
+* 第24次協作會議 
+  ＊ 數位白板 [1124]("http://pdis.rocks/1124")
+  ＊ 數位白板 [1124slido]("http://pdis.rocks/1124slido")
